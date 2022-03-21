@@ -1,6 +1,7 @@
 package OFICINA_BANCO;
 
 public class CuentaCorriente {
+	
 	String dni;
 	String nombre;
 	double saldo;
